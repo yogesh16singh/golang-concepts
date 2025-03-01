@@ -4,6 +4,7 @@ go 1.23.3
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
+	github.com/Jeffail/tunny v0.1.4 // indirect
 	github.com/braintree/manners v0.0.0-20160418043613-82a8879fc5fd // indirect
 	github.com/bytedance/sonic v1.12.6 // indirect
 	github.com/bytedance/sonic/loader v0.2.1 // indirect
